@@ -1,0 +1,9 @@
+.youFormHeading{
+    text-align: center;
+    padding: 20px;
+    color: rgb(73, 172, 238);
+    text-shadow: 4px 4px 7px rgba(21, 155, 196, 0.5);
+}
+.youFormMain form label{
+    color: white !important;
+}
